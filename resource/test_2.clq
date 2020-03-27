@@ -1,0 +1,22 @@
+c Licensed to the Apache Software Foundation (ASF) under one
+c or more contributor license agreements.  See the NOTICE file
+c distributed with this work for additional information
+c regarding copyright ownership.  The ASF licenses this file
+c to you under the Apache License, Version 2.0 (the
+c "License"); you may not use this file except in compliance
+c with the License.  You may obtain a copy of the License at
+c <p/>
+c http://www.apache.org/licenses/LICENSE-2.0
+c <p/>
+c Unless required by applicable law or agreed to in writing, software
+c distributed under the License is distributed on an "AS IS" BASIS,
+c WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+c See the License for the specific language governing permissions and
+c limitations under the License.
+
+p edge 4 4
+
+e 1 2
+e 1 4
+e 2 3
+e 3 4
